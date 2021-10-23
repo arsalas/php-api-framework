@@ -19,7 +19,6 @@ class Routes
         |
         */
 
-        // LOGIN
         $router->get('test', 'TestController@main',['test']);
 
 
